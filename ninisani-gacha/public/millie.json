@@ -1,0 +1,15 @@
+{
+  "Items": [
+    {
+      "id": "MILLIE-01",
+      "name": "Millie Parfait",
+      "description": "Millie Parfait from Nijisanji 3rd wave Ethyria",
+      "rarity": "common",
+      "artworkAssetName": "assets/sprites/milliepeace.png",
+      "backgroundAssetName": "assets/sprites/background.png",
+      "authorName": "",
+      "authorLink": "",
+      "authorLinkDescription": ""
+    }
+  ]
+}

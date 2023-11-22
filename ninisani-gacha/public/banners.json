@@ -1,0 +1,12 @@
+{
+    "Items": [
+      {
+        "id": "123456789",
+        "name": "Millie Banner",
+        "image": "MillieParfait",
+        "cardsUrl": "/millie.json",
+        "assetBundleUrl": "/bundles/millie"
+      }
+    ]
+  }
+  

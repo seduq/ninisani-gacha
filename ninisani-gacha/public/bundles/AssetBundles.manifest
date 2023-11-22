@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2478957932
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: icons
+      Dependencies: {}
+    Info_1:
+      Name: waves
+      Dependencies: {}
+    Info_2:
+      Name: millie
+      Dependencies: {}

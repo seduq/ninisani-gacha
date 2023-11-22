@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1778618353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edadcb6bb08dc13cfb6e7d55abefccb3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/Waves/Luxiem.png
+- Assets/Sprites/Waves/Noctyx.png
+- Assets/Sprites/Waves/ILUNA.png
+- Assets/Sprites/Waves/Obsydia.png
+- Assets/Sprites/Waves/Ethyria.png
+- Assets/Sprites/Waves/LazuLight.png
+Dependencies: []

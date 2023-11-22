@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1988231903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a41d5f41809e2840dc5fce338ba0c97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/Members/Ethyria/NinaKosaka.png
+- Assets/Sprites/Members/Noctyx/FulgurOvid.png
+- Assets/Sprites/Members/LazuLight/FinanaRyugu.png
+- Assets/Sprites/Members/ILUNA/MariaMarionette.png
+- Assets/Sprites/Members/Luxiem/IkeEveland.png
+- Assets/Sprites/Members/Noctyx/UkiVioleta.png
+- Assets/Sprites/Members/Ethyria/MillieParfait.png
+- Assets/Sprites/Members/Ethyria/EnnaAlouette.png
+- Assets/Sprites/Members/LazuLight/PomuRainpuff.png
+- Assets/Sprites/Members/ILUNA/KyoKaneko.png
+- Assets/Sprites/Members/Obsydia/SelenTatsuki.png
+- Assets/Sprites/Members/Obsydia/RosemiLovelock.png
+- Assets/Sprites/Members/Luxiem/VoxAkuma.png
+- Assets/Sprites/Members/Luxiem/ShuYamino.png
+- Assets/Sprites/Members/Noctyx/AlbanKnox.png
+- Assets/Sprites/Members/Luxiem/MystaRias.png
+- Assets/Sprites/Members/Noctyx/SonnyBrisko.png
+- Assets/Sprites/Members/Ethyria/ReimuEndou.png
+- Assets/Sprites/Members/ILUNA/RenZotto.png
+- Assets/Sprites/Members/Obsydia/PetraGurin.png
+- Assets/Sprites/Members/ILUNA/AsterArcadia.png
+- Assets/Sprites/Members/ILUNA/ScarleYonaguni.png
+- Assets/Sprites/Members/Luxiem/LucaKaneshiro.png
+- Assets/Sprites/Members/ILUNA/AiaAmare.png
+- Assets/Sprites/Members/LazuLight/EliraPendora.png
+Dependencies: []
