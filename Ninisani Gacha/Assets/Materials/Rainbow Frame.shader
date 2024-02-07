@@ -54,11 +54,11 @@ Shader "Ninisani/Rainbow Frame"
             {
                 fixed4 c = SampleSpriteTexture(IN.texcoord) * IN.color;
                 fixed4 perlin0 = tex2D(_Perlin, IN.texcoord);
-                fixed4 perlin = tex2D(_Perlin, IN.texcoord + float2(_Time.x, -_Time.x));
-                fixed4 perlin2 = tex2D(_Perlin, IN.texcoord + float2(-_Time.x, +_Time.x));
+                fixed4 perlin = tex2D(_Perlin, IN.texcoord + float2(_Time.x, -_Time.x) );
+                fixed4 perlin2 = tex2D(_Perlin, IN.texcoord + float2(-_Time.x, +_Time.x) );
                 float p = perlin.r * perlin2.r;
-                c.rgb = c.r * (HSVToRGB(float3(pow(perlin0.r, 0.7) + _Time.x * 4, 0.3, 1.0)));
-                c.rgb *= c.a;
+                c.rgb = c.r * (HSVToRGB(float3(    (((10 * (pow(perlin0.r, 0.07) + _Time.x) * 4)) % 10 ) * 0.1, 0.6, 1.0)));
+                //c.rgb *= c.a;
                 return c;
             }
             ENDCG
